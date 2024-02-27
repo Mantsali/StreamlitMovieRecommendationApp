@@ -34,7 +34,7 @@ Through our exploration of the data, spanning as far back as the 1930s,a captiva
 
 ![Project graph](/graph2.png "Project graph")
 
-We also found that the famous director Quentin Tarantino has directed the most highly rated movies to date. Which prompts us to further investigate would what makes him more popular than other well known directors like stephen king and james cameroon. we discovered that it is his Unique Vision and Style as well as his Originality that has made his work stand out and leave a lasting impression with his viewers.
+We also found that the famous director Quentin Tarantino has directed the most highly rated movies to date. Which prompts us to further investigate what makes him more popular than other well known directors like stephen king and james cameroon. we discovered that it is his Unique Vision and Style as well as his Originality that has made his work stand out and leave a lasting impression with his viewers.
 
 ## Streamlit Application
 
