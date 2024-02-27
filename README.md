@@ -38,7 +38,7 @@ We also found that the famous director Quentin Tarantino has directed the most h
 
 ## Streamlit Application
 
-https://github.com/Mantsali/StreamlitMovieRecommendationApp/blob/main/0227.mp4
+https://github.com/Mantsali/StreamlitMovieRecommendationApp/assets/20598927/b7d4860b-276d-401f-b2c9-e32a37cbc6be
 
 ## Project Collaborators
 
